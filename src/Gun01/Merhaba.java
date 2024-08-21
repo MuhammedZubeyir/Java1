@@ -13,6 +13,8 @@ public class Merhaba {
 
         for (int i = 0; i <10 ; i++) {
             System.out.println("task 4 yapıldı.");
+
+            System.out.println("task 5 yapıldı");
         }
     }
 }
